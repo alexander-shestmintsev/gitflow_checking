@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "scriptv1": "echo v1",
     "scriptv2": "echo v2",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
